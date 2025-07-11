@@ -36,9 +36,9 @@ myst_enable_extensions = [
 
 html_theme_options = {
     "light_css_variables": {
-        "font-stack": "serif, 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'",
-        "font-stack--monospace": "Courier, monospace, 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'",
-        "font-stack--headings": "'Fira Sans', sans-serif, 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'",
+        "font-stack": "'Noto Serif', 'New York', Georgia, serif, 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'",
+        "font-stack--monospace": "'Courier New', Courier, monospace, 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'",
+        "font-stack--headings": "'Fira Sans', 'Trebuchet MS', sans-serif, 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'",
     },
 }
 
