@@ -1,0 +1,6 @@
+h1, thead, th {
+    text-align: center !important
+}
+h1 .headerlink {
+    position: absolute
+}
