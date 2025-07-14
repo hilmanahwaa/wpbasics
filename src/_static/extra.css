@@ -4,3 +4,17 @@ h1, thead, th {
 h1 .headerlink {
     position: absolute
 }
+figcaption {
+    font-style: italic
+}
+.toc-scroll {
+    overflow-y: auto
+}
+.admonition {
+    font-family: var(--font-stack--headings)
+}
+.admonition .admonition-title {
+    font-weight: bold !important;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+}

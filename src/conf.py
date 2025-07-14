@@ -14,7 +14,7 @@ copyright = f'2025, {author}'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'myst_parser',
+    'myst_parser'
 ]
 
 myst_enable_extensions = [
@@ -39,10 +39,12 @@ emoji_font_stack = "'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'"
 html_theme_options = {
     "light_css_variables": {
         "font-stack": "'Noto Serif', 'New York', Georgia, serif",
-        "font-stack--monospace": "'Courier New', Courier, monospace",
+        "font-stack--monospace": "'Fira Code', 'Courier New', Courier, monospace",
         "font-stack--headings": "'Fira Sans', 'Trebuchet MS', sans-serif",
     },
 }
+
+html_favicon = "_static/favicon.svg"
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -59,4 +61,4 @@ language = 'id'
 
 html_theme = 'furo'
 html_static_path = ['_static']
-html_css_files = ['extra.css']
+html_css_files = ['extra.css', 'fonts/fonts.css']

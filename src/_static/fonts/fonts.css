@@ -1,0 +1,52 @@
+
+@font-face {
+    src: url("FiraCode/FiraCode-Regular.woff") format("woff");
+    font-family: "Fira Code";
+}
+@font-face {
+    src: url("FiraCode/FiraCode-Bold.woff") format("woff");
+    font-family: "Fira Code";
+    font-weight: bold;
+}
+
+@font-face {
+    src: url("FiraSans/FiraSans_Regular.woff") format("woff");
+    font-family: "Fira Sans";
+}
+@font-face {
+    src: url("FiraSans/FiraSans_Italic.woff") format("woff");
+    font-family: "Fira Sans";
+    font-style: italic;
+}
+@font-face {
+    src: url("FiraSans/FiraSans_Bold.woff") format("woff");
+    font-family: "Fira Sans";
+    font-weight: bold;
+}
+@font-face {
+    src: url("FiraSans/FiraSans_BoldItalic.woff") format("woff");
+    font-family: "Fira Sans";
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face {
+    src: url("NotoSerif/NotoSerif_Regular.woff") format("woff");
+    font-family: "Noto Serif";
+}
+@font-face {
+    src: url("NotoSerif/NotoSerif_Italic") format("woff");
+    font-family: "Noto Serif";
+    font-style: italic;
+}
+@font-face {
+    src: url("NotoSerif/NotoSerif_Bold.woff") format("woff");
+    font-family: "Noto Serif";
+    font-weight: bold;
+}
+@font-face {
+    src: url("NotoSerif/NotoSerif_BoldItalic.woff") format("woff");
+    font-family: "Noto Serif";
+    font-style: italic;
+    font-weight: bold;
+}
