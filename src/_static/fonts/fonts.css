@@ -31,21 +31,21 @@
 }
 
 @font-face {
-    src: url("NotoSerif/NotoSerif_Regular.woff") format("woff");
+    src: url("NotoSerif/NotoSerif-Regular.woff") format("woff");
     font-family: "Noto Serif";
 }
 @font-face {
-    src: url("NotoSerif/NotoSerif_Italic") format("woff");
+    src: url("NotoSerif/NotoSerif-Italic.woff") format("woff");
     font-family: "Noto Serif";
     font-style: italic;
 }
 @font-face {
-    src: url("NotoSerif/NotoSerif_Bold.woff") format("woff");
+    src: url("NotoSerif/NotoSerif-Bold.woff") format("woff");
     font-family: "Noto Serif";
     font-weight: bold;
 }
 @font-face {
-    src: url("NotoSerif/NotoSerif_BoldItalic.woff") format("woff");
+    src: url("NotoSerif/NotoSerif-BoldItalic.woff") format("woff");
     font-family: "Noto Serif";
     font-style: italic;
     font-weight: bold;
