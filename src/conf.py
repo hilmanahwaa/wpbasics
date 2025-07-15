@@ -38,9 +38,9 @@ emoji_font_stack = "'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Emoji'"
 
 html_theme_options = {
     "light_css_variables": {
-        "font-stack": "'Noto Serif', 'New York', Georgia, serif",
-        "font-stack--monospace": "'Fira Code', 'Courier New', Courier, monospace",
-        "font-stack--headings": "'Fira Sans', 'Trebuchet MS', sans-serif",
+        "font-stack": "'Noto Serif', 'New York', Cambria, Georgia, serif",
+        "font-stack--monospace": "'Fira Code', 'SF Mono', Consolas, 'Courier New', Courier, monospace",
+        "font-stack--headings": "'Fira Sans', 'SF Pro', 'Trebuchet MS', Helvetica, Arial, sans-serif",
     },
 }
 
