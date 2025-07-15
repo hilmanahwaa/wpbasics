@@ -14,6 +14,17 @@ pengelolaan berkas terlebih dahulu. Komputer merupakan perangkat elektronik yang
 menggunakan komputer, pekerjaan yang mulanya rumit, membosankan, memakan waktu, dan memerlukan banyak tenaga manusia 
 kini menjadi semakin mudah, singkat, dan dapat dikerjakan oleh satu atau dua orang saja.
 
+Komputer pada umumnya terdiri dari:
+1. Perangkat keras
+    - **Keyboard**, untuk mengetik 
+    - **Mouse**, untuk berinteraksi dengan layar komputer 
+    - **Monitor**, untuk menunjukkan keluaran visual (gambar) dari komputer
+2. Perangkat lunak
+    - **Sistem operasi** yang mengelola komputermu, seperti Windows, Mac OS, dan Linux
+    - **Program dan aplikasi** yang berjalan di atasnya, seperti peramban Web, pengelola berkas, pengolah kata, dsb.
+3. Penggunanya, yaitu kamu sendiri maupun orang lain.
+
+
 0.1. Menggunakan Keyboard
 -------------------------
 
@@ -36,9 +47,9 @@ dari yang di atas.
 Tata letak keyboard AS untuk Mac (Magic Keyboard biasa).
 ```
 
-### 0.1.1. Dasar-Dasar Keyboard
+### 0.1.1. Mengetik
 
-Untuk menggunakan keyboard :
+Untuk mengetik menggunakan keyboard :
 1. **Tekan tombol huruf satu kali**, seperti tombol <kbd>A</kbd> untuk memasukkan huruf di depan kursor (berupa garis 
    tegak atau persegi di dalam kolom teks). Jika ditekan bersamaan dengan tombol <kbd>Shift</kbd>, huruf yang dimasukkan 
    menjadi huruf besar.
@@ -63,8 +74,11 @@ Untuk menggunakan keyboard :
    
    Ilustrasi menghapus karakter di belakang kursor (atas) dan di depan kursor (bawah).
    ```
-4. **Tekan tombol Enter atau Return** untuk memulai baris baru atau menyetujui apa yang baru kamu masukkan.
-5. **Tekan dan tahan tombol Shift dan tekan tombol panah** untuk menyorot teks. Tahan tombol Ctrl atau Option untuk
+4. **Tekan tombol <kbd>Enter</kbd> atau <kbd>return</kbd>** untuk memulai baris baru atau menyetujui apa yang baru kamu
+   masukkan.
+5. **Gunakan tombol panah** untuk menggerakkan kursor. Jika ditekan bersama tombol <kbd>Ctrl</kbd>, kursor dapat
+   melompati satu kata utuh.
+6. **Tekan dan tahan tombol Shift dan tekan tombol panah** untuk menyorot teks. Tahan tombol Ctrl atau Option untuk
    menyorot satu kata utuh. Mengetiklah untuk mengganti teks yang disorot. Tekan tombol Backspace untuk menghapusnya.
 
 ### 0.1.2. Menggunakan Pintasan
@@ -95,6 +109,7 @@ Jika kamu menggunakan keyboard PC di komputer Mac, tombol berlogo Windows berfun
 Alt berfungsi sebagai tombol Option.
 ```
 
+
 0.2. Menggunakan Mouse
 ----------------------
 
@@ -102,9 +117,69 @@ Mouse adalah sebuah perangkat berbentuk menyerupai tikus yang digunakan untuk me
 komputer. Panah kursor digunakan untuk berinteraksi dengan apa yang ada di layar komputer dengan mengekliknya (menunjuk
 sesuatu dan menekan tombol mouse).
 
+Untuk menggunakan sebuah mouse, pegang badannya lalu gerakkan untuk menggerakkan panah kursor di layar. Tekan tombol di
+sisi kiri mouse untuk berinteraksi dengan apa yang ditunjuk oleh panah kursor. Tombol kanan biasanya digunakan untuk
+memunculkan daftar hal-hal lain yang bisa dilakukan, tergantung dari apa yang ditunjuk oleh panah kursor.
+
+Untuk menyeret atau menggambar dengan mouse, klik kiri pada suatu benda yang ditunjuk, gerakkan mouse ke tempat yang
+diinginkan, lalu lepaskan tombol.
+
+Untuk menggulir teks atau daftar yang panjang, gunakan bilah gulir di sisi kiri atau bawah daftar atau kolom teks, atau
+gerakkan roda di mouse kamu. Roda di mouse kamu juga dapat ditekan, memberikan fungsi lain tergantung pada apa yang kamu
+kerjakan.
+
 Perangkat yang memberi fungsi serupa adalah *trackpad*. *Trackpad* adalah permukaan yang sensitif terhadap sentuhan dan
 pergerakan jari di atasnya. Karena praktis dan mudah digunakan, *trackpad* digunakan di hampir semua laptop (komputer 
-lipat). 
+lipat).
+
+Untuk menggunakannya, sentuh permukaan *trackpad* untuk mengeklik, geser jari untuk menggerakkan kursor, ketuk dua kali
+dan geser jari pada ketukan kedua untuk menyeret, ketuk dengan dua jari untuk klik kanan, dan masih banyak lagi.
+Tergantung dari *trackpad* atau *laptop* yang kamu gunakan, mungkin terdapat lebih banyak lagi hal yang bisa dilakukan
+dengan *trackpad*-mu.
+
+
+0.3. Menyalakan Komputer
+------------------------
+
+Sebelum menyalakan komputer, komputer harus dinyalakan terlebih dahulu. Komputer merupakan peralatan elektronik, artinya
+komputer memerlukan tenaga listrik, baik listrik rumah maupun baterai, agar bisa menyala.
+
+Untuk menyalakan komputer, ikuti langkah-langkah berikut ini :
+
+1. Untuk komputer meja (desktop), pastikan komputer dan monitor tersambung ke sumber listrik.
+2. Hidupkan komputer dan monitor dengan menekan tombol *power* pada unit komputer dan monitor.
+3. Jika komputer memiliki lebih dari satu sistem operasi, pilih sistem operasi yang diinginkan.
+4. Tunggu hingga sistem operasi siap.
+5. Masuklah dengan mengeklik nama akunmu atau mengetiknya, lalu mengeetik kata sandimu.
+6. Komputer siap digunakan.
+
+
+0.4. Menjalankan Program atau Aplikasi
+--------------------------------------
+
+Komputer bukan apa-apa tanpa aplikasi. Aplikasi adalah sekumpulan program yang memberikan fungsi tertentu. Contohnya
+adalah sebuah pengolah kata, yang berfungsi mengolah kata dan membantu membuat dokumen-dokumen dengan rapi dan
+profesional, atau peramban Web, yang berfungsi mengakses informasi dari seluruh dunia dengan sambungan Internet.
+
+Untuk menjalankan aplikasi, ikuti langkah-langkah berikut :
+
+**Sistem operasi Windows :**
+1. Klik logo Windows di *taskbar* kamu atau tekan tombol berlogo Windows di keyboard kamu.
+2. Klik tombol "All apps" dan cari aplikasi yang hendak kamu jalankan, atau ketik namanya di kolom pencarian yang
+   disediakan.
+
+**Sistem operasi Mac OS :**
+1. Klik ikon *Launchpad* (dengan kotak warna-warni) di dok yang ada di sisi bawah layar.
+2. Cari aplikasi yang hendak kamu jalankan.
+
+**Sistem operasi Linux dengan GNOME :**
+1. Klik tombol "Activities" atau tombol dengan bulatan-bulatan yang ada di pojok kiri atas.
+2. Ketik nama aplikasi yang hendak kamu jalankan, atau klik "Show Applications" dengan lambang sembilan bulatan untuk
+   mencari aplikasi yang hendak kamu jalankan.
+
+**Sistem operasi Linux dengan KDE :**
+1. Klik lambang Plasma di ujung *panel* di bawah layar kamu.
+2. Cari aplikasi yang hendak kamu jalankan, atau ketik namanya di kolom pencarian yang disediakan.
 
 
 0.?. Pengelolaan Berkas
