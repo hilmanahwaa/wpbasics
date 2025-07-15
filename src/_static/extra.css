@@ -18,3 +18,22 @@ figcaption {
     text-transform: uppercase;
     letter-spacing: 1pt;
 }
+.page .mobile-header,
+.page .sidebar-drawer,
+.page .main .toc-drawer {
+    font-family: var(--font-stack--headings)
+}
+.mobile-header .header-left > * + *,
+.mobile-header .header-right > * + *{
+    margin-left: 0.5em
+}
+section > p, article > p, li > p {
+    text-align: justify
+}
+section > p, article > p {
+    text-indent: 0.5in
+}
+center > p, center > section > p {
+    text-indent: 0in;
+    text-align: center;
+}
