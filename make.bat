@@ -9,6 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=src
 set BUILDDIR=build
+set SPHINXOPTS="-D language=id"
 
 %SPHINXBUILD% >NUL 2>NUL
 if errorlevel 9009 (
