@@ -148,7 +148,8 @@ Untuk menyalakan komputer, ikuti langkah-langkah berikut ini :
 
 1. Untuk komputer meja (desktop), pastikan komputer dan monitor tersambung ke sumber listrik.
 2. Hidupkan komputer dan monitor dengan menekan tombol *power* pada unit komputer dan monitor.
-3. Jika komputer memiliki lebih dari satu sistem operasi, pilih sistem operasi yang diinginkan.
+3. Jika komputer memiliki lebih dari satu sistem operasi, pilih sistem operasi yang diinginkan dengan tombol panah lalu
+   tekan <kbd>Enter</kbd> atau <kbd>return</kbd>.
 4. Tunggu hingga sistem operasi siap.
 5. Masuklah dengan mengeklik nama akunmu atau mengetiknya, lalu mengeetik kata sandimu.
 6. Komputer siap digunakan.
@@ -163,23 +164,31 @@ profesional, atau peramban Web, yang berfungsi mengakses informasi dari seluruh 
 
 Untuk menjalankan aplikasi, ikuti langkah-langkah berikut :
 
-**Sistem operasi Windows :**
+````{tabs}
+
+```{tab} Windows
 1. Klik logo Windows di *taskbar* kamu atau tekan tombol berlogo Windows di keyboard kamu.
 2. Klik tombol "All apps" dan cari aplikasi yang hendak kamu jalankan, atau ketik namanya di kolom pencarian yang
    disediakan.
+```
 
-**Sistem operasi Mac OS :**
+```{tab} Mac OS
 1. Klik ikon *Launchpad* (dengan kotak warna-warni) di dok yang ada di sisi bawah layar.
 2. Cari aplikasi yang hendak kamu jalankan.
+```
 
-**Sistem operasi Linux dengan GNOME :**
+```{tab} Linux (GNOME)
 1. Klik tombol "Activities" atau tombol dengan bulatan-bulatan yang ada di pojok kiri atas.
 2. Ketik nama aplikasi yang hendak kamu jalankan, atau klik "Show Applications" dengan lambang sembilan bulatan untuk
    mencari aplikasi yang hendak kamu jalankan.
+```
 
-**Sistem operasi Linux dengan KDE :**
+```{tab} Linux (KDE)
 1. Klik lambang Plasma di ujung *panel* di bawah layar kamu.
 2. Cari aplikasi yang hendak kamu jalankan, atau ketik namanya di kolom pencarian yang disediakan.
+```
+
+````
 
 
 0.?. Pengelolaan Berkas
