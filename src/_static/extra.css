@@ -37,3 +37,40 @@ center > p, center > section > p {
     text-indent: 0in;
     text-align: center;
 }
+kbd {
+    font-family: var(--font-stack--headings);
+    font-size: var(--font-size--small--2);
+    letter-spacing: 0.1em;
+}
+.sphinx-tabs {
+    border: 1px solid var(--color-card-border);
+    border-radius: 0.2rem;
+    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.05), 0 0 0.0625rem rgba(0, 0, 0, 0.1);
+}
+.sphinx-tabs [role=tablist] {
+    background-color: var(--color-table-header-background);
+    border-radius: 0.2rem 0.2rem 0 0;
+    border: none;
+    padding-bottom: 1px;
+}
+.sphinx-tabs .sphinx-tabs-tab {
+    font-family: var(--font-stack--headings);
+    background: none;
+    border: none;
+    color: var(--color-content-foreground);
+    padding: 0.25rem 0.75rem;
+}
+.sphinx-tabs .sphinx-tabs-tab[aria-selected=true] {
+    color: var(--color-brand-content);
+    border-bottom: 2px solid;
+}
+.sphinx-tabs-panel {
+    border: none;
+    padding: 0.5rem 1rem;
+}
+.sphinx-tabs-panel > *:first-child {
+    margin-top: 0;
+}
+.sphinx-tabs-panel > *:last-child {
+    margin-bottom: 0;
+}
