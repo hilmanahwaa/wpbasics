@@ -1,3 +1,5 @@
+import os
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -14,7 +16,8 @@ copyright = f'2025, {author}'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'myst_parser'
+    'myst_parser',
+    'sphinx_tabs.tabs'
 ]
 
 myst_enable_extensions = [
@@ -62,3 +65,4 @@ language = 'id'
 html_theme = 'furo'
 html_static_path = ['_static']
 html_css_files = ['extra.css', 'fonts/fonts.css']
+html_js_files = ['scripts/gumshoe-patched.js']
